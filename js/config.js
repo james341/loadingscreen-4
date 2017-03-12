@@ -97,7 +97,9 @@ var l_musicPlaylist = [
 	{youtube: "155Jd2ZLiaA", name: "Star Wars- The Imperial March (Darth Vader's Theme"},
 	{youtube: "JG5OsfOuEy0", name: "Star Wars Main Theme"},
         {youtube: "UAMyh8DjCrQ", name: "hello from the dark side"},
-        {youtube: "JOa-U171MSw", name: "Obikin ||Star Wars - Stitches"}    
+        {youtube: "JOa-U171MSw", name: "Obikin ||Star Wars - Stitches"},    
+        {youtube: "nFkxV49oF6E", name: "MLG Starwars Theme Song"},
+        {youtube: "oZxnbBWtGR4", name: "The Final Countdown "}
 ];
 
 /*Random music order?*/
@@ -113,7 +115,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing",
-	"The Admins Are AllWays Watching So Dont Fuck Up!",
+	"The Admins Are AlWays Watching So Dont Fuck Up!",
 	"Please Do Not Minge In The Server?",
         "we also have a darkrp server when you get some time come join that as well?"
 ];
