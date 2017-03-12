@@ -114,7 +114,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing",
 	"The Admins Are AllWays Watching So Dont Fuck Up!",
-	"Please Do Not Minge In The Server?"
+	"Please Do Not Minge In The Server?",
+        "we also have a darkrp server when you get some time come join that as well?"
 ];
 
 /*Random message order?*/
