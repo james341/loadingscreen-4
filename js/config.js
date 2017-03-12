@@ -58,7 +58,9 @@ var l_bgImages = [
 	"touhou03.jpg",
         "touhou04.jpg",
         "touhou05.jpg",      
-        "touhou06.jpg" 
+        "touhou06.jpg", 
+        "touhou07.jpg",
+        "touhou08.jpg"
 ];
 
 /*Random background images order?*/
@@ -99,7 +101,7 @@ var l_musicPlaylist = [
         {youtube: "UAMyh8DjCrQ", name: "hello from the dark side"},
         {youtube: "JOa-U171MSw", name: "Obikin ||Star Wars - Stitches"},    
         {youtube: "nFkxV49oF6E", name: "MLG Starwars Theme Song"},
-        {youtube: "oZxnbBWtGR4", name: "The Final Countdown "}
+        {youtube: "oZxnbBWtGR4", name: "The Final Countdown"}
 ];
 
 /*Random music order?*/
