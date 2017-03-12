@@ -89,10 +89,10 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "24rreFqTmO4", name: "but if you close your eyes"},
-	{youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
-	{youtube: "kbqmEJTr3nU", name: "Pacific Sun"},
-	{youtube: "hZzoFZsiDvQ", name: "Cry For You"},
+	{youtube: "qSgJeVwjnpc", name: "Star Wars Disney - Let it Flow - Let it Go Frozen Parody"},
+	{youtube: "djV11Xbc914", name: "Take On Me"},
+	{youtube: "bzWSJG93P8", name: "Star Wars- The Imperial March (Darth Vader's Theme"},
+	{youtube: "D0ZQPqeJkk", name: "Star Wars Main Theme "},
 ];
 
 /*Random music order?*/
