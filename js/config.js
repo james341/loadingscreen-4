@@ -63,7 +63,10 @@ var l_bgImages = [
         "touhou08.jpg",
         "touhou09.jpg",
         "touhou010.jpg",
-        "touhou011.jpg"
+        "touhou011.jpg",
+        "touhou012.jpg",
+        "touhou013.jpg",
+        "touhou014.jpg"
 ];
 
 /*Random background images order?*/
@@ -104,7 +107,8 @@ var l_musicPlaylist = [
         {youtube: "UAMyh8DjCrQ", name: "hello from the dark side"},
         {youtube: "JOa-U171MSw", name: "Obikin ||Star Wars - Stitches"},    
         {youtube: "nFkxV49oF6E", name: "MLG Starwars Theme Song"},
-        {youtube: "oZxnbBWtGR4", name: "The Final Countdown"}
+        {youtube: "oZxnbBWtGR4", name: "The Final Countdown"},
+        {youtube: "qJlbPXZEpRE", name: "Somebody That I Used To Know' Parody"}
 ];
 
 /*Random music order?*/
